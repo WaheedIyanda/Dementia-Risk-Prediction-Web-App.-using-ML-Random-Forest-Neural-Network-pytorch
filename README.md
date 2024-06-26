@@ -1,0 +1,2 @@
+# Dementia-Risk-Predition-Web-App.-using-ML-Random-Forest-NeuroNetwork-
+The project predicts dementia using a neural network, deployed as a Streamlit web app. Data includes diabetic status, alcohol level, heart rate, blood oxygen, body temperature, weight, MRI delay, prescriptions, dosage, age, education, dominant hand, gender, family history, smoking, APOE ε4, activity, depression, cognitive scores, medication  etc.
