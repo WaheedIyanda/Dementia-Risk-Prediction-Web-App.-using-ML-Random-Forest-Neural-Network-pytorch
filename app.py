@@ -1,3 +1,8 @@
+###streamlit
+torch==1.9.0+cpu
+torchvision==0.10.0+cpu
+torchaudio==0.9.0 ###
+-f https://download.pytorch.org/whl/torch_stable.html
 import streamlit as st
 import torch
 import torch.nn as nn
